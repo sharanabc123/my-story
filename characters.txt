@@ -1,0 +1,6 @@
+characters
+mokey
+sharan
+crocodile
+donkey
+zebra
